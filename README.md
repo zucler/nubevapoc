@@ -25,4 +25,4 @@ Uses whatever account you are logged into currently with 'az login'
     Manually override the password for all devices, default is 'G0Nub3va20[]'
 -h|--help
     Display this help message
-```
+``` 
